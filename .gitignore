@@ -165,5 +165,6 @@ expl-readme.md
 # файлы
 py14_clean/data/diabetes_data.zip
 *.zip
-py1617-stuff/data/grades.xlsx
+*.xlsx
 *.csv
+*.xls
