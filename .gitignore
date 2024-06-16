@@ -167,5 +167,6 @@ py14_clean/data/diabetes_data.zip
 *.zip
 *.xlsx
 *.csv
+*/*.csv
 *.xls
 PROJECT-2.hh-sql/connect-sql.ipynb
