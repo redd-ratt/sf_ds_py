@@ -170,3 +170,4 @@ py14_clean/data/diabetes_data.zip
 */*.csv
 *.xls
 PROJECT-2.hh-sql/connect-sql.ipynb
+3-EDA/eda-1/unit_7_check_up.ipynb
